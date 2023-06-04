@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Add-users-form/static/css/main.9987fc13.css",
+    "main.js": "/Add-users-form/static/js/main.b6a81298.js",
+    "static/js/787.9f40c82b.chunk.js": "/Add-users-form/static/js/787.9f40c82b.chunk.js",
+    "index.html": "/Add-users-form/index.html",
+    "main.9987fc13.css.map": "/Add-users-form/static/css/main.9987fc13.css.map",
+    "main.b6a81298.js.map": "/Add-users-form/static/js/main.b6a81298.js.map",
+    "787.9f40c82b.chunk.js.map": "/Add-users-form/static/js/787.9f40c82b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9987fc13.css",
+    "static/js/main.b6a81298.js"
+  ]
+}
